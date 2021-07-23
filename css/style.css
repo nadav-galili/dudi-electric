@@ -167,7 +167,7 @@ li {
   padding-right: 1rem;
   padding-left: 1rem;
   background-color: var(--primary);
-  transition: transform 0.2s ease-in-out, visibility 0.2s ease-in-out;
+  transition: transform 0.3s ease-in-out, visibility 0.2s ease-in-out;
 }
 
 .offcanvas-collapse.open {
@@ -260,7 +260,7 @@ li {
 .aboutImg {
   border-radius: 50%;
   width: 20vw;
-  height: 40vh;
+  height: 70vh;
 }
 
 /****************/
@@ -276,7 +276,7 @@ li {
 }
 
 .para {
-  width: 50%;
+  width: 100%;
 }
 
 .para-light {
