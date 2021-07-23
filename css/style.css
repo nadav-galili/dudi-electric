@@ -129,8 +129,8 @@ li {
 /**********************/
 
 .navbar {
-  right: -100px !important;
-  left: 200px !important;
+  /* right: -50px !important; */
+  /* left: 22px !important; */
   font-weight: 500;
   font-size: 0.875rem;
   line-height: 0.875rem;
@@ -160,7 +160,7 @@ li {
   position: fixed;
   top: 2.75rem; /* adjusts the height between the top of the page and the offcanvas menu */
   bottom: 0;
-  left: 121%;
+  left: 100%;
   width: 100%;
   overflow-y: auto;
   visibility: hidden;
