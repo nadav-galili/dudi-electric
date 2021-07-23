@@ -259,7 +259,8 @@ li {
 /* about */
 .aboutImg {
   border-radius: 50%;
-  width: 90%;
+  width: 20vw;
+  height: 40vh;
 }
 
 /****************/
@@ -715,5 +716,11 @@ li {
     right: -16px;
     width: 22px;
     background-size: 22px 34px;
+  }
+
+  .aboutImg {
+    border-radius: 50%;
+    width: 70vw;
+    height: 40vh;
   }
 }
